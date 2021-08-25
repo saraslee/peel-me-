@@ -1,4 +1,4 @@
-# Peel Me
+# peeling motion using css
 
 
 Inspired by peeling off sticky notes from my wall.  I wanted to recreate the experience of peeling off sticky notes realistically on a web app.
